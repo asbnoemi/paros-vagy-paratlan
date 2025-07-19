@@ -86,7 +86,7 @@ begin
  begin
     Paros.Checked:=True;
  end;
- if (not VPl) and (VPL) then
+ if (not VP) and (VPL) then
  begin
     ParatLan.Checked:=True;
  end

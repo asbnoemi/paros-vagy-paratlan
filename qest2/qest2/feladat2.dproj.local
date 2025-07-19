@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.675,C:\Users\asbot\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\meilo\Qest2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,C:\Users\asbot\Documents\Embarcadero\Studio\Projects\feladat2.dproj=D:\meilo\feladat2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.247,C:\Users\asbot\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\asbot\Documents\Embarcadero\Studio\Projects\feladat2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.675,C:\Users\asbot\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\meilo\Qest2.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.659,=C:\Users\asbot\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.675,D:\meilo\Qest2.pas=C:\Users\asbot\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.247,C:\Users\asbot\Documents\Embarcadero\Studio\Projects\feladat2.dproj=C:\Users\asbot\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.026,D:\meilo\feladat2.dproj=C:\Users\asbot\Documents\Embarcadero\Studio\Projects\feladat2.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.675,D:\meilo\Qest2.dfm=C:\Users\asbot\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>
